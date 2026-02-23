@@ -164,9 +164,12 @@ Nor a race to see who remembers the other next.
 It’s a quiet promise, a bond that never ends—
 That even in the silence, we remain the truest friends."
             </p>
+            
             <p>
-              Sometimes, the most beautiful stories are the ones 
-              we write in silence.
+          I may not 'like' every story you share,
+          But that doesn't mean that I’m not there.
+          They don't need an app to show that they’re true,
+          Their respect and their time are enough for you.
             </p>
           </div>
 
@@ -177,10 +180,11 @@ That even in the silence, we remain the truest friends."
               <p className="text-3xl md:text-4xl text-rose-500 font-serif italic pr-2">
                - Limitless
               </p>
+              
             </div>
             
             <div className="mt-8 flex flex-col items-end opacity-40">
-              
+              cookmate is cooking currently......
             </div>
           </footer>
         </article>

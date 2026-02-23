@@ -168,7 +168,7 @@ That even in the silence, we remain the truest friends."
             <p>
           I may not 'like' every story you share,
           But that doesn't mean that I’m not there.
-          They don't need an app to show that they’re true,
+          we don't need an app to show that they’re true,
           Their respect and their time are enough for you.
             </p>
           </div>

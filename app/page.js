@@ -174,7 +174,7 @@ That even in the silence, we remain the truest friends."
           </div>
 
           {/* Footer / Signature Area */}
-          <footer className="pt-12 flex flex-col items-end">
+          <footer className="pt-1 flex flex-col items-end">
             <div className="text-right space-y-1">
               <p className="text-gray-500 text-xs tracking-widest uppercase"></p>
               <p className="text-3xl md:text-4xl text-rose-500 font-serif italic pr-2">

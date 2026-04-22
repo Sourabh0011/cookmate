@@ -159,17 +159,11 @@ export default function CookMateLanding() {
           <div className="text-gray-300 text-lg md:text-2xl leading-[2.2rem] font-serif italic space-y-8 bg-[repeating-linear-gradient(transparent,transparent_34px,#1f1f1f_35px)] bg-local">
             
             <p>
-              "Friendship isn't a ledger of daily calls or texts,
-Nor a race to see who remembers the other next.
-It’s a quiet promise, a bond that never ends—
-That even in the silence, we remain the truest friends."
+             
             </p>
             
             <p>
-          I may not 'like' every story you share,
-          But that doesn't mean that I’m not there.
-          we don't need an app to show that they’re true,
-          Their respect and their time are enough for you.
+         
             </p>
           </div>
 

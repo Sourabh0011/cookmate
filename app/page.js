@@ -142,10 +142,10 @@ export default function CookMateLanding() {
         {/* Date / Header Area */}
         <div className="flex justify-between items-center mb-10 border-b border-white/5 pb-2">
           <span className="text-[10px] tracking-[0.3em] uppercase text-gray-600 font-sans">
-            11 • 02 • 2026 - 11:11:11 PM
+       
           </span>
           <span className="text-[10px] tracking-[0.2em] text-rose-800/80 font-sans italic">
-            Midnight Reflections
+          
           </span>
         </div>
 
@@ -172,13 +172,13 @@ export default function CookMateLanding() {
             <div className="text-right space-y-1">
               <p className="text-gray-500 text-xs tracking-widest uppercase"></p>
               <p className="text-3xl md:text-4xl text-rose-500 font-serif italic pr-2">
-               - Limitless
+               
               </p>
               
             </div>
             
             <div className="mt-8 flex flex-col items-end opacity-40">
-              cookmate is cooking currently......
+             
             </div>
           </footer>
         </article>
